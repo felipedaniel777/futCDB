@@ -1,2 +1,2 @@
-# futCDB
-jogos CDB marquinhos
+# Jogos da Copa do Brasil
+Trabalho de faculdade.
